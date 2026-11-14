@@ -20,3 +20,6 @@ Participants in the workshop will:
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
+
+## History
+This project was created to learn Git and GitHub workflows.
