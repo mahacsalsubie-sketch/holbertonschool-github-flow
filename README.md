@@ -23,3 +23,5 @@ Participants in the workshop will:
 
 ## History
 This project was created to learn Git and GitHub workflows.
+## Introduction
+This repository is used to practice GitHub collaboration.
