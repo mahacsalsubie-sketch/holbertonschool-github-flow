@@ -21,5 +21,7 @@ Participants in the workshop will:
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
 
+## History
+This project was created to learn Git and GitHub workflows.
 ## Introduction
 This repository is used to practice GitHub collaboration.
